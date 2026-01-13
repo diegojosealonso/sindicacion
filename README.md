@@ -1,2 +1,1 @@
 # sindicacion
-# sindicacion
