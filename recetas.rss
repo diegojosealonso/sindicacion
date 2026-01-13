@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <titles>Recetas veganas fáciles </title>
+        <title>Recetas veganas fáciles </title>
         <link>https://www.recetasveganasfaciles.com</link>
         <description>Blog con recetas veganas rápidas y saludables para todos los días</description>
         <language>es</language>
@@ -23,6 +23,6 @@
             <guid>https://www.recetasveganasfaciles.com/tacos-lentejas</guid>
             <description>Tacos rellenos de lentejas y verduras frescas.</description>
         </item>
-
+    
     </channel>
 </rss>
